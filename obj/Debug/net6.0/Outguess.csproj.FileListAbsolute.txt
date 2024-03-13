@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\Outguess\bin\Debug\net6.0\Outguess.exe
+C:\Users\MCA\source\repos\Outguess\bin\Debug\net6.0\Outguess.deps.json
+C:\Users\MCA\source\repos\Outguess\bin\Debug\net6.0\Outguess.runtimeconfig.json
+C:\Users\MCA\source\repos\Outguess\bin\Debug\net6.0\Outguess.dll
+C:\Users\MCA\source\repos\Outguess\bin\Debug\net6.0\Outguess.pdb
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\Outguess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\Outguess.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\Outguess.AssemblyInfo.cs
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\Outguess.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\Outguess.dll
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\refint\Outguess.dll
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\Outguess.pdb
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\Outguess.genruntimeconfig.cache
+C:\Users\MCA\source\repos\Outguess\obj\Debug\net6.0\ref\Outguess.dll
